@@ -1,5 +1,4 @@
-
-                              # les 11 testmandements
+# les 11 testmandements
 
 ### Test 1 : Fonction AddVoter => Tester que l'administrateur peut bien rajouter un voteur#
 ### Test 2 : Fonction AddVoter => Tester que seul l'administrateur peut rajouter un voteur
